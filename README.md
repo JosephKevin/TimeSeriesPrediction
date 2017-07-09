@@ -6,4 +6,5 @@ The objectives of this project is to
 	Locate the table called “tcplife” and plot the following data columns as time series plots and their histograms:  “rx”, “tx”, “dur”, “lport”, and “rport”.
 
 2. Data Statics
-	Perform a study of descriptive statistics of 'dur' values in the 'tcplife' table.
+	2.1 Perform a study of descriptive statistics of 'dur' values in the 'tcplife' table.
+	2.2 Are any of the values of “dur” are anomalous ?  Which ones ? use concepts of robust statistics to demonstrate which values, if any
